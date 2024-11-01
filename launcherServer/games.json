@@ -10,7 +10,8 @@
             "procesador": "Intel Core 2 Duo a 1.8 GHz, AMD Athlon X2 64 a 2.4GHz",
             "memoria": "1.5 GB de RAM para XP / 1.5 GB de RAM para Vista",
             "graficos": "nVidia 7900 con 256 MB / ATI X1900 con 256 MB",
-            "almacenamiento": "32 GB espacio disponible"
+            "almacenamiento": "32 GB espacio disponible",
+            "online":"no"
         },
         "nombre_torrent": "gtaiv.torrent",
         "nombre_foto": "gtaiv.webp"
@@ -26,9 +27,27 @@
             "procesador": "1.6 GHz",
             "memoria": "512 MB de RAM",
             "graficos": "128 MB de memoria de video, compatible con Shader Model 2.0",
-            "almacenamiento": "200 MB espacio disponible"
+            "almacenamiento": "200 MB espacio disponible",
+            "online":"steam"
         },
         "nombre_torrent": "https://www.mediafire.com/file/sn4nar6gtsa4ewc",
         "nombre_foto": "terraria.webp"
+    },
+    {
+        "id": "3",
+        "nombre": "Euro Truck Simulator 2",
+        "descripcion": "un simulador de conducción de camiones que te llevará a llevar mercancías por toda Europa. Comienzas con la compra de un camión y la elección de tu país. A partir de ahí, Euro Truck Simulator te llevará a transportar frutas, muebles o electrodomésticos a ciudades como Barcelona, París o Madrid.",
+        "peso": "10 GB",
+        "ultima_actualizacion": "21/10/24",
+        "requisitos_minimos": {
+            "sistema_operativo": "Windows 7",
+            "procesador": "Dual core CPU 2.4 GHz",
+            "memoria": "4 GB RAM",
+            "graficos": "GeForce GTS 450-class (Intel HD 4000)",
+            "almacenamiento": "3 GB available space",
+            "online":"no"
+        },
+        "nombre_torrent": "eurotrucksimulator2.torrent",
+        "nombre_foto": "eurotrucksimulator2.webp"
     }
 ]
