@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "nombre": "GTA V",
+        "descripcion": "Grand Theft Auto V es un juego de acción y aventura que sigue las historias de tres criminales en la ciudad ficticia de Los Santos.",
+        "peso": "65 GB",
+        "ultima_actualizacion": "2023-09-15",
+        "requisitos_minimos": {
+            "sistema_operativo": "Windows 7 64-Bit",
+            "procesador": "Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs)",
+            "memoria": "4 GB RAM",
+            "graficos": "NVIDIA 9800 GT 1GB / AMD HD 4870 1GB",
+            "almacenamiento": "65 GB espacio disponible"
+        },
+        "nombre_torrent": "GTAV.torrent",
+        "nombre_foto": "gta_v.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Terraria",
+        "descripcion": "Terraria es un juego de aventuras y construcción en 2D donde los jugadores pueden explorar, construir y combatir en un mundo abierto.",
+        "peso": "200 MB",
+        "ultima_actualizacion": "2023-05-10",
+        "requisitos_minimos": {
+            "sistema_operativo": "Windows XP o superior",
+            "procesador": "Dual Core 3.0 GHz",
+            "memoria": "2 GB RAM",
+            "graficos": "128 MB de memoria de video, compatible con Shader Model 2.0",
+            "almacenamiento": "200 MB espacio disponible"
+        },
+        "nombre_torrent": "Terraria.torrent",
+        "nombre_foto": "terraria.jpg"
+    }
+]
