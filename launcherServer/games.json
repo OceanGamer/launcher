@@ -13,7 +13,7 @@
             "almacenamiento": "32 GB espacio disponible"
         },
         "nombre_torrent": "gtaiv.torrent",
-        "nombre_foto": "gtaiv.jpg"
+        "nombre_foto": "gtaiv.webp"
     },
     {
         "id": "2",
@@ -29,6 +29,6 @@
             "almacenamiento": "200 MB espacio disponible"
         },
         "nombre_torrent": "https://www.mediafire.com/file/sn4nar6gtsa4ewc",
-        "nombre_foto": "terraria.jpg"
+        "nombre_foto": "terraria.webp"
     }
 ]
